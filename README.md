@@ -3,7 +3,7 @@ This project is a responsive clone of the official Discord landing page, designe
 
 ## 🌐 Live Demo
 
-> []
+> [ https://anubhabbiswas123.github.io/Discord-Clone/]
 ---
 
 ## Features
